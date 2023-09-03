@@ -1,6 +1,6 @@
 # Skin Cancer Classification App
 
-![Skin Cancer Classification](insight_images/skin_cancer_readme.png)
+![Skin Cancer Classification](skin_readme.png)
 
 This is a deep learning project for classifying skin cancer types using a pre-trained ResNet-50 model. The project includes data preprocessing, model training, and a Streamlit web application for predicting skin cancer types from uploaded images.
 
