@@ -16,7 +16,7 @@ This is a deep learning project for classifying skin cancer types using a pre-tr
 
 ## Demo
 
-You can access the demo video of this skin cancer classification app [here](https://your-app-name.herokuapp.com).
+You can access the demo video of this skin cancer classification app [here](https://www.linkedin.com/in/puneet-walia-b278a5216/recent-activity/all/).
 
 ## Getting Started
 
