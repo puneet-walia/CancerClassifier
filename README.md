@@ -16,7 +16,7 @@ This is a deep learning project for classifying skin cancer types using a pre-tr
 
 ## Demo
 
-You can access the demo video of this skin cancer classification app [here]([https://www.linkedin.com/posts/puneet-walia-b278a5216_ai-deeplearning-healthtech-activity-7104525515117502466-SNvP?utm_source=share&utm_medium=member_desktop]).
+You can access the demo video of this skin cancer classification app [here](https://www.linkedin.com/posts/puneet-walia-b278a5216_ai-deeplearning-healthtech-activity-7104525515117502466-SNvP?utm_source=share&utm_medium=member_desktop).
 
 ## Getting Started
 
