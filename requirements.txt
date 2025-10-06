@@ -1,7 +1,7 @@
-numpy==1.21.2
-seaborn==0.11.2
-matplotlib==3.4.3
-pandas==1.3.3
-scikit-learn==0.24.2
-tensorflow==2.5.0
-OpenCV==4.8.0
+numpy
+seaborn
+matplotlib
+pandas
+scikit-learn
+tensorflow
+OpenCV
