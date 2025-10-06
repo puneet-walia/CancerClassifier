@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 import tempfile
 
 # Load the pre-trained model
-model_path = "fmodel_resnet50.h5"
+model_path = "models/saved_models/fmodel_resnet50.h5"
 loaded_model_imageNet = load_model(model_path)
 
 # Define the class labels
