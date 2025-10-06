@@ -4,5 +4,6 @@ matplotlib
 pandas
 scikit-learn
 tensorflow
+pillow
 opencv-python-headless==4.9.0.80
 
